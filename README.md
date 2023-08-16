@@ -14,7 +14,7 @@ This talk contains two examples:
 
 ## How to containerize Python applications with Docker
 
-Coming soon..
+Coming soon..ccdf
 
 kbcsd csm
 
